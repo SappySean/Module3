@@ -2,6 +2,7 @@ body{
 	font-size: 16px;
 }
 
+
 .navbar-brand{
 	margin-bottom: 30px;
     color: black;
@@ -20,8 +21,8 @@ section{
   text-align: center;
   background-color: grey;
   padding: 5px 20px 15px 20px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 } 
 
 
@@ -48,8 +49,8 @@ section{
 #nav-list a span {
 	font-size: 1.8em;
 }
-/*
-#chicken-div {
+
+/*#chicken-div {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
@@ -63,5 +64,8 @@ section{
 #Sushi-div {
 	margin-top: 10px;
 	margin-bottom: 10px;
-} */
-
+} 
+*/
+#top {
+	color: blue;
+}
